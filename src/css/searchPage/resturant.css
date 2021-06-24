@@ -1,0 +1,88 @@
+.resturant_option {
+  height: 50%;
+  width: 30%;
+  cursor: pointer;
+  position: absolute;
+  top: 35%;
+  right: 40%;
+  background-color: white;
+}
+
+.r_name {
+}
+
+.r_contact {
+  height: 10%;
+  width: 20%;
+  margin-top: 1%;
+}
+.r_social {
+  height: 10%;
+  width: 20%;
+  margin-top: 1%;
+}
+.r_location {
+  height: 10%;
+  width: 20%;
+  margin-top: 1%;
+}
+.g_map {
+  height: 250px;
+  width: 20%;
+  border: black 2px dotted;
+}
+.r_type {
+  height: 10%;
+  width: 15%;
+  /* border: black 2px dotted; */
+  margin-left: 22%;
+  margin-top: -20%;
+}
+
+.r_foodtype {
+  height: 10%;
+  width: 15%;
+  /* border: black 2px dotted; */
+  margin-left: 22%;
+  margin-top: 1%;
+}
+.food_menu {
+  height: 30%;
+  width: 20%;
+  /* border: black 2px dotted; */
+  margin-left: 47%;
+  margin-top: -10%;
+}
+.order_now {
+  height: 10%;
+  width: 20%;
+  /* border: black 2px dotted; */
+  margin-left: 47%;
+}
+.r_features {
+  height: 10%;
+  width: 15%;
+  /* border: black 2px dotted; */
+  margin-top: -5%;
+  margin-bottom: 10%;
+  margin-left: 82%;
+}
+.r_hours {
+  height: 10%;
+  width: 15%;
+  /* border: black 2px dotted; */
+  margin-left: 82%;
+  margin-top: -2%;
+}
+
+.reviews {
+  height: 10%;
+  width: 15%;
+  /* border: black 2px dotted; */
+}
+.post_review {
+  height: 10%;
+  width: 15%;
+  margin-top: 1%;
+  margin-left: 33%;
+}

@@ -1,0 +1,14 @@
+.top_blogs {
+  display: flex;
+}
+
+.blog {
+  width: 20%;
+  height: 20%;
+  margin-left: 2%;
+  margin-right: 10%;
+}
+
+.blog_img {
+  max-width: 140%;
+}

@@ -1,0 +1,15 @@
+.top_offer_banner {
+  display: flex;
+}
+
+.top_offer {
+  width: 17%;
+  height: 17%;
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-right: 5%;
+}
+
+.top_offer_img {
+  max-width: 150%;
+}

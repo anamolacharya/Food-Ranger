@@ -1,0 +1,9 @@
+.filter {
+  width: 15%;
+  height: 70%;
+  background-color: white;
+}
+
+.sort_type {
+  display: relative;
+}

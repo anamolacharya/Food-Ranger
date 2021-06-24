@@ -1,0 +1,12 @@
+.food_banner {
+  display: flex;
+}
+
+.food_item {
+  width: 16.5%;
+  height: 16.5%;
+}
+
+.food_item_img {
+  max-width: 70%;
+}

@@ -1,0 +1,11 @@
+.review_detail {
+  border: 4px solid grey;
+  background-color: white;
+  width: 50%;
+  margin-left: 15%;
+  margin-top: 1%;
+}
+
+.review_header {
+  margin-left: -20%;
+}

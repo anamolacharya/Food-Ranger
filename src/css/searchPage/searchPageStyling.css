@@ -1,0 +1,30 @@
+.nearby_resturants {
+  background-color: white;
+  width: 20%;
+  height: 30%;
+  position: absolute;
+  top: 15%;
+  right: 1%;
+}
+
+.nearby_resturant_flex {
+  background-color: white;
+
+  display: flex;
+  padding: 1% 1% 1% 1%;
+}
+
+.featured_resturant {
+  background-color: white;
+  width: 20%;
+  height: 30%;
+  position: absolute;
+  top: 85%;
+  right: 1%;
+}
+
+.featured_resturant_flex {
+  background-color: white;
+  display: flex;
+  padding: 1% 1% 1% 1%;
+}

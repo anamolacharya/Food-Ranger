@@ -1,0 +1,49 @@
+.navbar {
+  background: transparent;
+  /* position: absolute; */
+  top: 0;
+  width: 95%;
+  height: 13%;
+
+  /* background: #6cf; */
+}
+
+.navbar_logo {
+  text-align: left;
+  font-size: 25px;
+  margin-left: 1%;
+  color: orange;
+}
+
+.navbar_button {
+  margin-top: -3%;
+}
+/* .button.navbar_button {
+  font-size: 30px;
+} */
+
+.nav_button {
+  margin-right: 70px;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: inline;
+  font-family: Lato, Arial, sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  height: auto;
+  line-height: 16.1px;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+
+  text-align: left;
+  text-decoration-color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  text-rendering: optimizelegibility;
+  text-size-adjust: 100%;
+  text-transform: uppercase;
+  width: auto;
+}
